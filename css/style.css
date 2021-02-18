@@ -24,7 +24,7 @@ img{
     width: 50%;
 }
 
-p{
+p,label{
     font-weight: bold;
 }
 
